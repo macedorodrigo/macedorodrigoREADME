@@ -8,9 +8,9 @@
 - 😄 Pronouns: he/his
 --
 <div align="center" style="display:flex">
-  <a href="https://github.com/ewertonribeiro">
+  <a href="https://github.com/macedorodrigo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewertonribeiro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonribeiro&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedorodrigo&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ewerton-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -25,9 +25,7 @@
 
   ##
   
-  <div> 
-  
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "ewertondosanjosz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/ewerton-ribeiro-822460205" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div>  
+  <a href = "roMACO1694@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/macedo-rodrigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
